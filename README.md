@@ -1,1 +1,2 @@
-# CRT420
+# Special Topics in Creative Technology: Data Analytics & Machine Learning
+This course covers a range of machine learning topics, including deep learning, data analysis, and neural networks. Students will learn about the different types of machine learning algorithms, such as supervised learning, unsupervised learning, and reinforcement learning. They will also learn how to prepare data for machine learning models, how to evaluate model performance, and how to optimize model parameters. Students will also learn how to use popular data science frameworks, such as Pandas, Numpy and SQL
